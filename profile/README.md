@@ -45,12 +45,6 @@ We're passionate about turning **Ideas into Digital Reality**.
 
 ---
 
-### 📈 GitHub Stats
-![Rebirth Core GitHub Stats](https://github-readme-stats.vercel.app/api?username=RebirthCore&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RebirthCore&layout=compact&theme=radical)
-
----
-
 ### 🤝 Open Source Contribution Guide
 We welcome **Open Source Contributors** to join our journey 🔥.
 
@@ -93,11 +87,11 @@ You can **Support Us with a Coffee** ☕
 ---
 
 ### 📫 Connect with Us
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/RebirthCore)
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/RebirthCore)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/RebirthCore)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/RebirthCore)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/@RebirthCore)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&link=https://x.com/Rebirth_Core)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/Rebirth Core)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/rebirth_core)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/Rebirth Core)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/@rebirth_core)
 ![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/RebirthCoreCommunity)
 
 ---
