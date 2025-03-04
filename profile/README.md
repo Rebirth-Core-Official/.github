@@ -1,10 +1,10 @@
 # 👋 Welcome to Rebirth Core
 
-### 🔥 App & Software Development | Web3 | AI | Animation
+### 🔥 Web - App - Software Development | SaaS | Web3 | AI | Animation
 
 ![Rebirth Core Logo](logo.png)
 
-**Rebirth Core** is a tech brand focused on delivering innovative solutions in **App Development**, **Software Development**, **API**, **Web3 Technology**, **AI Integrations**, and **Creative Animation**.
+**Rebirth Core** is a tech brand focused on delivering innovative solutions in **App Development**, **Software Development**, **SaaS**, **API**, **Web3 Technology**, **AI Integrations**, and **Creative Animation**.
 
 ### 🎯 Profile Visitors
 ![Profile Views](https://komarev.com/ghpvc/?username=RebirthCore&label=Profile%20Views&color=blue&style=plastic)
@@ -29,6 +29,7 @@
 
 ### 🌐 What We Do
 - App Development 📱  
+- SaaS 🌐
 - Software Development 💻
 - API 💻 
 - Web3 Projects 🌐  
@@ -39,7 +40,7 @@ We're passionate about turning **Ideas into Digital Reality**.
 
 ---
 
-### 🔥 Projects Done
+### 🔥 Recent Projects
 - **Background Remover App**  
   _AI-based background remover app built with Python and JavaScript._ ✅  
 
