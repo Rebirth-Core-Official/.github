@@ -80,11 +80,15 @@ If you like what we're building, support the mission:
 
 ---
 
-### ☕ Buy Me Coffee
+[![Buy Me Coffee](https://img.shields.io/badge/Buy%20Me%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourprofile)
+
 Do you like our work?  
 You can **Support Us with a Coffee** ☕
 
-[![Buy Me Coffee](https://img.shields.io/badge/Buy%20Me%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/RebirthCore)
+My Public Address to Receive **USDT**:  
+`0x2503A7AD18baf9C575E24CA88D18e34163128aEA`
+
+[![Pay via Trust Wallet](https://img.shields.io/badge/Pay%20via%20Trust%20Wallet-%23007AFF.svg?style=for-the-badge&logo=trustwallet&logoColor=white)](https://link.trustwallet.com/send?coin=20000714&address=0x2503A7AD18baf9C575E24CA88D18e34163128aEA&token_id=0x55d398326f99059fF775485246999027B3197955)
 
 ---
 
